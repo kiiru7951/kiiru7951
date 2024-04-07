@@ -4,7 +4,7 @@
 🌱 I'm currently learning Fullstack Web Development<br>
 
 #### Thank you for visiting my profile, here's a meme for you 💀
-<img src='https://randommeme-five.vercel.app/' style="height: 100px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kiiru7951&label=Visitors&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
