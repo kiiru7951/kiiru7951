@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 I'm Allan.</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">I'm a Computer Science student</h3>
 
-🌱 Currently learning Fullstack Development<br>
+🌱 I'm currently learning Fullstack Web Development<br>
 
 #### Thank you for visiting my profile, here's a meme for you 💀
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
