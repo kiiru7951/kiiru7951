@@ -4,7 +4,18 @@
 🌱 I'm currently learning Fullstack Web Development<br>
 
 #### Thank you for visiting my profile, here's a meme for you 💀
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+<img id="random-meme" src="" style="height: 300px;" />
+
+<script>
+async function fetchMeme() {
+    const response = await fetch('https://your-project-name.vercel.app/random-meme');
+    const meme = await response.json();
+    document.getElementById('random-meme').src = meme.path;
+}
+
+fetchMeme();
+</script>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kiiru7951&label=Visitors&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
