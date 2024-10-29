@@ -4,17 +4,6 @@
 🌱 I'm currently learning Fullstack Web Development<br>
 
 #### Thank you for visiting my profile, here's a meme for you 💀
-<img id="random-meme" src="" style="height: 300px;" />
-
-<script>
-async function fetchMeme() {
-    const response = await fetch('https://your-project-name.vercel.app/random-meme');
-    const meme = await response.json();
-    document.getElementById('random-meme').src = meme.path;
-}
-
-fetchMeme();
-</script>
 
 
 ---
