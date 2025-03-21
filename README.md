@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning Fullstack Web Development<br>
 
-#### Thank you for visiting my profile, here's a meme for you 💀
+#### While You are here, here's a meme for you 💀
 
 
 ---
