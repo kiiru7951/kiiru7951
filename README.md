@@ -3,9 +3,5 @@
 
 🌱 I'm currently learning Fullstack Web Development<br>
 
-#### While You are here, here's a meme for you 💀
-
-
----
 [![](https://visitcount.itsvg.in/api?id=kiiru7951&label=Visitors&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
----
+#### While you are here, here's a meme for you 💀
